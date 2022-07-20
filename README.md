@@ -27,19 +27,6 @@
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-<h3 align="left">Recently completed Projects:</h3>
-<p style="display:flex">
-  <a href="https://github.com/kkp785216/gym-react">
-        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
-    </a>
-    <a href="https://github.com/kkp785216/youtube-clone">
-        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
-    </a>
-    <a href="https://github.com/kkp785216/android-store">
-        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
-    </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -69,6 +56,19 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
+</p>
+
+<h3 align="left">Recently completed Projects:</h3>
+<p style="display:flex">
+  <a href="https://github.com/kkp785216/gym-react">
+        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
+    </a>
+    <a href="https://github.com/kkp785216/youtube-clone">
+        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
+    </a>
+    <a href="https://github.com/kkp785216/android-store">
+        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
+    </a>
 </p>
 
 <p>
