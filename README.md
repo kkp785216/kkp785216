@@ -1,5 +1,15 @@
 <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/krishna%20cover.png">
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)](https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/akshat.rastogi.bu__/)](https://instagram.com/akshat.rastogi.bu__)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/akshat_rastogi)](https://www.codechef.com/users/akshat_rastogi)
+[![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@akshat28vivek/)](https://medium.com/@akshat28vivek/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)](https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshat28vivek@gmail.com)](mailto:akshat28vivek@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/akshatrasogi)](https://twitter.com/akshatrasogi)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://akshatrastogi.in/#/)](https://akshatrastogi.in/#/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)](https://fb.com/programmarakshat)
+
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
 
