@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **React, Html, CSS, JavaScript**
 
-- 📫 How to reach me **kkp785216@gmail.com** || [tel:+91 8858899958](tel:+91 8858899958)
+- 📫 How to reach me **kkp785216@gmail.com** || [tel:+918858899958](tel:+918858899958)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
