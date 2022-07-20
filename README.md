@@ -63,7 +63,7 @@
   <tbody>
     <tr>
       <td>
-        **GYM - React**
+        <strong>GYM - React</strong>
         <a href="https://github.com/kkp785216/gym-react">
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
         </a>
