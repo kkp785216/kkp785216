@@ -31,10 +31,10 @@
 
 <p style="display:flex">
   <a href="https://github.com/kkp785216/gym-react">
-        <img width=50% src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
+        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
     </a>
     <a href="https://github.com/kkp785216/youtube-clone">
-        <img width=50% src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
+        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
     </a>
 </p>
 
