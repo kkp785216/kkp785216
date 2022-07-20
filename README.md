@@ -64,19 +64,19 @@
     <tr>
       <td>
         <a href="https://github.com/kkp785216/gym-react">
-          <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
+          <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
         </a>
       </td>
       <td>
         <a href="https://github.com/kkp785216/youtube-clone">
-          <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
+          <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/kkp785216/android-store">
-          <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
+          <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
         </a>
       </td>
     </tr>
