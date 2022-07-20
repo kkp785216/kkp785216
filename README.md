@@ -58,26 +58,30 @@
   </a> 
 </p>
 
-<table>
-<tbody>
-<tr>
-<td>Hello</td><td>this is krisna</td>
-</tr>
-</tbody>
-</table>
-
 <h3 align="left">Recently completed Projects:</h3>
-<p style="display:flex">
-  <a href="https://github.com/kkp785216/gym-react">
-        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
-    </a>
-    <a href="https://github.com/kkp785216/youtube-clone">
-        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
-    </a>
-    <a href="https://github.com/kkp785216/android-store">
-        <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
-    </a>
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/kkp785216/gym-react">
+          <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kkp785216/youtube-clone">
+          <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kkp785216/android-store">
+          <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkp785216&show_icons=true&locale=en&layout=compact" alt="kkp785216" />
