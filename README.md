@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/krishna%20cover.png">
 
-<p align="center">
+<p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)](https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kkp785216/)](https://instagram.com/kkp785216/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCdp0LJ86Ud7Tf6XNLbyZj6A)](https://www.youtube.com/channel/UCdp0LJ86Ud7Tf6XNLbyZj6A)
