@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/krishna%20cover.png">
+
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
 
