@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/krishna%20cover.png">
 
-<p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)](https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kkp785216/)](https://instagram.com/kkp785216/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCdp0LJ86Ud7Tf6XNLbyZj6A)](https://www.youtube.com/channel/UCdp0LJ86Ud7Tf6XNLbyZj6A)
@@ -8,7 +7,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/krishna785216)](https://twitter.com/krishna785216)
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://kkp785216.github.io/krishna-portfolio/)](https://kkp785216.github.io/krishna-portfolio/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/krishna785216)](https://fb.com/krishna785216)
-  </p>
 <!-- [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/akshat_rastogi)](https://www.codechef.com/users/akshat_rastogi) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@akshat28vivek/)](https://medium.com/@akshat28vivek/) -->
 
