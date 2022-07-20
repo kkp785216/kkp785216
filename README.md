@@ -63,13 +63,13 @@
   <tbody>
     <tr>
       <td>
-        <strong>GYM - React</strong>
+        <strong><a href="https://github.com/kkp785216/gym-react">GYM - React</a></strong>
         <a href="https://github.com/kkp785216/gym-react">
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
         </a>
       </td>
       <td>
-        **YouTube Clone**
+        <strong><a href="https://github.com/kkp785216/youtube-clone">YouTube - Clone</a></strong>
         <a href="https://github.com/kkp785216/youtube-clone">
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
         </a>
@@ -78,7 +78,7 @@
     <tr>
       <td>
         **Android Store**
-        <a href="https://github.com/kkp785216/android-store">
+        <strong><a href="https://github.com/kkp785216/android-store">Android - Store</a></strong>
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
         </a>
       </td>
