@@ -10,7 +10,7 @@
 <!-- [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/akshat_rastogi)](https://www.codechef.com/users/akshat_rastogi) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@akshat28vivek/)](https://medium.com/@akshat28vivek/) -->
 
-<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://kkp785216.github.io/krishna-portfolio/" target="_blank">Krishna</a></h1>
 <h3 align="center">A passionate frontend React developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkp785216&label=Profile%20views&color=0e75b6&style=flat" alt="kkp785216" /> </p>
