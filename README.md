@@ -27,15 +27,7 @@
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishna785216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna785216" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-prajapati-2b2b761b0" height="30" width="40" /></a>
-<a href="https://fb.com/kkp785216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kkp785216" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucdp0lj86ud7tf6xnlbyzj6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdp0lj86ud7tf6xnlbyzj6a" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Recently completed Projects:</h3>
 <p style="display:flex">
   <a href="https://github.com/kkp785216/gym-react">
         <img width=405 src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
