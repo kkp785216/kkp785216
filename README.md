@@ -25,6 +25,19 @@
 <a href="https://www.youtube.com/c/ucdp0lj86ud7tf6xnlbyzj6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdp0lj86ud7tf6xnlbyzj6a" height="30" width="40" /></a>
 </p>
 
+### RECENTLY COMPLETED PROJECTS
+
+<br/>
+
+<p style="display:flex">
+  <a href="https://github.com/kkp785216/gym-react">
+        <img width="50%" src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
+    </a>
+    <a href="https://github.com/kkp785216/youtube-clone">
+        <img width="50%" src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
+    </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
