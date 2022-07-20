@@ -77,7 +77,6 @@
     </tr>
     <tr>
       <td>
-        **Android Store**
         <strong><a href="https://github.com/kkp785216/android-store">Android - Store</a></strong>
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
         </a>
