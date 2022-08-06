@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkp785216&label=Profile%20views&color=0e75b6&style=flat" alt="kkp785216" /> </p>
 
-- 🔭 I’m currently working on [YouTube Clone](https://github.com/kkp785216/youtube-clone)
+- 🔭 I’m currently working on [Amazon Challenge](https://github.com/kkp785216/amazon-challenge)
 
 - 🌱 I’m currently learning **Node Js, MongoDB, Express Js, Firebase**
 
