@@ -87,6 +87,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/kkp785216/amazon-challenge">Amazon Challenge</a></strong>
+          <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/amazon_challenge.png" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
