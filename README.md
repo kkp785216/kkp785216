@@ -82,6 +82,8 @@
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
         </a>
       </td>
+      <td>
+        <a href="https://github.com/kkp785216/vegamovie">
         <strong><a href="https://github.com/kkp785216/vegamovie">Vega Movie</a></strong>
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/vegamovie.png" />
         </a>
