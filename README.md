@@ -74,20 +74,14 @@
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <strong><a href="https://github.com/kkp785216/youtube-clone">YouTube - Clone</a></strong>
         <a href="https://github.com/kkp785216/youtube-clone">
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/youtube%20clone.png" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://github.com/kkp785216/android-store">Android - Store</a></strong>
-          <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
-        </a>
-      </td>
-      <td>
         <strong><a href="https://github.com/kkp785216/vegamovie">Vega Movie</a></strong>
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/vegamovie.png" />
         </a>
@@ -99,6 +93,12 @@
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/amazon_challenge.png" />
         </a>
       </td>
+      <td>
+        <strong><a href="https://github.com/kkp785216/android-store">Android - Store</a></strong>
+          <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/android%20store.png" />
+        </a>
+      </td>
+      <td>
     </tr>
   </tbody>
 </table>
