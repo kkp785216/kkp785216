@@ -63,6 +63,12 @@
   <tbody>
     <tr>
       <td>
+        <strong><a href="https://github.com/kkp785216/gym-react">Full-Stack Newspaper</a></strong>
+        <a href="https://github.com/kkp785216/newspaper">
+          <img src="https://raw.githubusercontent.com/kkp785216/krishna-portfolio/main/img/projects/newspaper.png" />
+        </a>
+      </td>
+      <td>
         <strong><a href="https://github.com/kkp785216/gym-react">GYM - React</a></strong>
         <a href="https://github.com/kkp785216/gym-react">
           <img src="https://raw.githubusercontent.com/kkp785216/kkp785216/main/projects/gym-react.png" />
