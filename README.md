@@ -47,6 +47,9 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="./logos/js.png" alt="javascript" width="40" height="40" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="./logos/typescript.png" alt="javascript" width="40" height="40" />
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="./logos/bootstrap.png" alt="bootstrap" width="40" height="40" />
   </a>
@@ -64,6 +67,12 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="./logos/node.png" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="./logos/express.png" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="./logos/mongodb.png" alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="./logos/firebase.svg" alt="firebase" width="40" height="40" />
