@@ -45,7 +45,7 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
     <img src="https://i.imgur.com/97FwLJy.png" alt="css3" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="  https://i.imgur.com/BipBMQI.png" alt="javascript" width="40" height="40" />
+    <img src="https://i.imgur.com/BipBMQI.png" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/KSxQ7uL.png" alt="typescript" width="40" height="40" />
