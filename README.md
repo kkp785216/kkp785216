@@ -130,14 +130,14 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
       <td>
         <strong><a href="https://github.com/kkp785216/gym-react">Full-Stack Newspaper</a></strong>
         <a href="https://github.com/kkp785216/newspaper">
-          <img src="./projects/newspaper.png" />
+          <img src="https://i.imgur.com/XfBzGuE.png" />
         </a>
         <a href="https://newspaper-kkp785216.vercel.app/">Live Demo</a>
       </td>
       <td>
         <strong><a href="https://github.com/kkp785216/gym-react">GYM - React</a></strong>
         <a href="https://github.com/kkp785216/gym-react">
-          <img src="./projects/gym-react.png" />
+          <img src="https://i.imgur.com/iH1D9If.png" />
         </a>
         <a href="https://kkp785216.github.io/gym-react">Live Demo</a>
       </td>
@@ -147,7 +147,7 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
       <td>
         <strong><a href="https://github.com/kkp785216/youtube-clone">YouTube - Clone</a></strong>
         <a href="https://github.com/kkp785216/youtube-clone">
-          <img src="./projects/youtube%20clone.png" />
+          <img src="https://i.imgur.com/f76EZLP.png" />
         </a>
         <a href="https://kkp785216.github.io/youtube-clone/">Live Demo</a>
       </td>
@@ -155,7 +155,7 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
       <td>
         <a href="https://github.com/kkp785216/vegamovie">
           <strong><a href="https://github.com/kkp785216/vegamovie">Vega Movie</a></strong>
-          <img src="./projects/vegamovie.png" />
+          <img src="https://i.imgur.com/k4KNOy3.png" />
         </a>
         <a href="https://kkp785216.github.io/vegamovie/">Live Demo</a>
       </td>
@@ -163,14 +163,14 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
     <tr>
       <td>
         <strong><a href="https://github.com/kkp785216/amazon-challenge">Amazon Clone</a></strong>
-        <img src="./projects/amazon_challenge.png" />
+        <img src="https://i.imgur.com/vggtmqt.png" />
         </a>
         <a href="https://amazon-challenge-kkp785216.vercel.app/">Live Demo</a>
       </td>
       </td>
       <td>
         <strong><a href="https://github.com/kkp785216/android-store">Android - Store</a></strong>
-        <img src="./projects/android%20store.png" />
+        <img src="https://i.imgur.com/70jKv6E.png" />
         </a>
         <a href="https://kkp785216.github.io/android-store">Live Demo</a>
       </td>
