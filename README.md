@@ -28,7 +28,7 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
 - 👨‍💻 All of my projects are also available at
   [https://kkp785216.github.io/krishna-portfolio](https://kkp785216.github.io/krishna-portfolio)
 
-- 💬 Ask me about **React, Nextjs, SSR, Best Practices**
+- 💬 Ask me about **React.js, Redux.js, Next.js, SSR, Best Practices, Node.js, MongoDB**
 
 - 📫 How to reach me **kkp785216@gmail.com** || **+91 8858899958**
 
