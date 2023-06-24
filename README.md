@@ -1,4 +1,4 @@
-<img src="./krishna%20cover.png">
+![Cover Photo](/krishna%20cover.png)
 
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)](https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)
@@ -85,6 +85,7 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
 <br>
 
 ## My Experience at [OyeBusy Technology Pvt. Ltd.](https://www.oyebusy.com/gurgaon/)
+
 <p>Hi, I am experienced front-end developer. I have worked for 9 months in Oyebusy which was a startup. I worked with a lot of technologies like Nextjs13, Redux, and Typescript. 4 Major Workflows, 50+ hotfixes, and 3 production release</p>
 <table>
   <tbody>
@@ -122,6 +123,7 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
 <br>
 
 ## End to end Learning Practise based Projects [Checkout the Portfolio](https://kkp785216.github.io/krishna-portfolio/)
+
 <table>
   <tbody>
     <tr>
