@@ -1,4 +1,4 @@
-![Cover Photo](/krishna%20cover.png)
+![Cover Photo](https://i.imgur.com/jpCdTCh.png)
 
 [![Linkedin
 Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)](https://linkedin.com/in/krishna-kumar-prajapati-2b2b761b0/)
@@ -39,46 +39,46 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="./logos/html5.png" alt="html5" width="40" height="40" />
+    <img src="https://i.imgur.com/r6f5wfK.png" alt="html5" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="./logos/css3.png" alt="css3" width="40" height="40" />
+    <img src="https://i.imgur.com/97FwLJy.png" alt="css3" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="./logos/js.png" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="./logos/typescript.png" alt="javascript" width="40" height="40" />
+    <img src="https://i.imgur.com/BipBMQI.png" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="./logos/bootstrap.png" alt="bootstrap" width="40" height="40" />
+    <img src="https://i.imgur.com/nCREk7F.png" alt="bootstrap" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="./logos/tailwind.png" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="./logos/react.png" alt="react" width="40" height="40" />
+    <img src="https://i.imgur.com/RVX7Vbj.png" alt="react" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="./logos/next.png" alt="react" width="40" height="40" />
+    <img src="https://i.imgur.com/dzwjnI0.png" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="./logos/redux.png" alt="redux" width="40" height="40" />
+    <img src="https://i.imgur.com/eh15HP0.png" alt="redux" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="./logos/node.png" alt="nodejs" width="40" height="40" />
+    <img src="https://i.imgur.com/DNEVivM.png" alt="nodejs" width="40" height="40" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="./logos/express.png" alt="nodejs" width="40" height="40" />
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/kjX1g7D.png" alt="express" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="./logos/mongodb.png" alt="nodejs" width="40" height="40" />
+    <img src="https://i.imgur.com/kclWIET.png" alt="mongodb" width="40" height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="./logos/firebase.svg" alt="firebase" width="40" height="40" />
+    <img src="https://i.imgur.com/YpLMiZp.png" alt="firebase" width="40" height="40" />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="./logos/sass.png" alt="sass" width="40" height="40" />
+    <img src="https://i.imgur.com/oA8b3KR.png" alt="sass" width="40" height="40" />
   </a>
 </p>
 
@@ -86,39 +86,21 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
 
 ## My Experience at [OyeBusy Technology Pvt. Ltd.](https://www.oyebusy.com/gurgaon/)
 
-<p>Hi, I am experienced front-end developer. I have worked for 9 months in Oyebusy which was a startup. I worked with a lot of technologies like Nextjs13, Redux, and Typescript. 4 Major Workflows, 50+ hotfixes, and 3 production release</p>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <strong><a href="https://www.oyebusy.com/gurgaon/">Homepage Flow</a></strong>
-        <a href="https://www.oyebusy.com/gurgaon/">
-          <img src="./experience/oyebusy/homepage.png" />
-        </a>
-      </td>
-      <td>
-        <strong><a href="https://www.oyebusy.com/gurgaon/electrician/">Service Landing Page</a></strong>
-        <a href="https://www.oyebusy.com/gurgaon/electrician/">
-          <img src="./experience/oyebusy/service-landing-page.png" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://www.oyebusy.com/gurgaon/electrician/">Order Flow</a></strong>
-        <a href="https://www.oyebusy.com/gurgaon/electrician/">
-          <img src="./experience/oyebusy/order-flow.png" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.oyebusy.com/user/bookings/">
-          <strong><a href="https://www.oyebusy.com/user/bookings/">Profile and Booking</a></strong>
-          <img src="./experience/oyebusy/profile-booking.png" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<!-- <p>Hi, I am experienced front-end developer. I have worked for 9 months in Oyebusy which was a startup. I worked with a lot of technologies like Nextjs13, Redux, and Typescript. 4 Major Workflows, 50+ hotfixes, and 3 production release</p> -->
+Hi, I am experienced front-end developer. I have worked for 9 months in Oyebusy which was a startup. I worked with a lot of technologies like Nextjs13, Redux, and Typescript. 50+ hotfixes, and 3 production release
+
+Through this, I have transformed my skillset from a beginner who was new to these technologies to a seasoned developer who implements SSR, Global State management, and multiple third-party libraries.
+
+I routinely collaborate with the entire team to deliver the update, resolve dependencies and conflicts and have onboarded three interns.
+
+I strive to maintain the quality of both the product that I have worked on and the codebase I am building with my team, following best practices such as modular folder structure, automated linting, and much more.
+
+I can see that you have a requirement for a front-end developer at your company. 
+
+I believe my entire work experience at Oyebusy has prepared me to perform with confidence and competence in such a role.
+So I believe that I'm fit for your company as per your requirement. I am looking forward to learning a lot of things at your company and contributing in a meaningful way.
+
+let's get in touch to explore this relationship.
 
 <br>
 
