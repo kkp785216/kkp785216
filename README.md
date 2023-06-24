@@ -84,9 +84,8 @@ Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=face
 
 <br>
 
-## My Experience at [OyeBusy Technology Pvt. Ltd.](https://www.oyebusy.com/gurgaon/)
+## My Experience at [OyeBusy Technology Pvt. Ltd.](https://www.oyebusy.com/gurgaon/) (Frontend Web Developer)
 
-<!-- <p>Hi, I am experienced front-end developer. I have worked for 9 months in Oyebusy which was a startup. I worked with a lot of technologies like Nextjs13, Redux, and Typescript. 4 Major Workflows, 50+ hotfixes, and 3 production release</p> -->
 Hi, I am experienced front-end developer. I have worked for 9 months in Oyebusy which was a startup. I worked with a lot of technologies like Nextjs13, Redux, and Typescript. 50+ hotfixes, and 3 production release
 
 Through this, I have transformed my skillset from a beginner who was new to these technologies to a seasoned developer who implements SSR, Global State management, and multiple third-party libraries.
